@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Cantharellus_noumeae","Echinomorpha_nishihirai",0.4152
+"Cantharellus_noumeae","Herpolitha_limax",0.1501
+"Cantharellus_noumeae","Lithophyllon_repanda",0.3438
+"Cantharellus_noumeae","Polyphyllia_novaehiberniae",0.9556
+"Cantharellus_noumeae","Polyphyllia_talpina",0.9623
+"Echinomorpha_nishihirai","Herpolitha_limax",0.0909
+"Echinomorpha_nishihirai","Lithophyllon_repanda",0.2286
+"Echinomorpha_nishihirai","Polyphyllia_novaehiberniae",0.924
+"Echinomorpha_nishihirai","Polyphyllia_talpina",0.9352
+"Herpolitha_limax","Lithophyllon_repanda",0.5437
+"Herpolitha_limax","Polyphyllia_novaehiberniae",0.98
+"Herpolitha_limax","Polyphyllia_talpina",0.9831
+"Lithophyllon_repanda","Polyphyllia_novaehiberniae",0.9428
+"Lithophyllon_repanda","Polyphyllia_talpina",0.9514
+"Polyphyllia_novaehiberniae","Polyphyllia_talpina",0.323

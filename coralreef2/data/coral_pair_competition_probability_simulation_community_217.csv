@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Astrea_curta","Blastomussa_omanensis",0.1564
+"Astrea_curta","Caulastraea_connata",0.0524
+"Astrea_curta","Cladocora_caespitosa",0.0299
+"Astrea_curta","Favites_colemani",0.2577
+"Astrea_curta","Oulastrea_crispata",0.2818
+"Blastomussa_omanensis","Caulastraea_connata",0.1071
+"Blastomussa_omanensis","Cladocora_caespitosa",0.0627
+"Blastomussa_omanensis","Favites_colemani",0.4294
+"Blastomussa_omanensis","Oulastrea_crispata",0.4596
+"Caulastraea_connata","Cladocora_caespitosa",0.183
+"Caulastraea_connata","Favites_colemani",0.716
+"Caulastraea_connata","Oulastrea_crispata",0.7402
+"Cladocora_caespitosa","Favites_colemani",0.8189
+"Cladocora_caespitosa","Oulastrea_crispata",0.8364
+"Favites_colemani","Oulastrea_crispata",0.3123

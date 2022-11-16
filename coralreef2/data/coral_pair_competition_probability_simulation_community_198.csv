@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Alveopora_allingi","Alveopora_gigas",0.0551
+"Alveopora_allingi","Pavona_duerdeni",0.5246
+"Alveopora_allingi","Pavona_frondifera",0.2057
+"Alveopora_allingi","Pavona_minuta",0.2541
+"Alveopora_allingi","Porites_cylindrica",0.5369
+"Alveopora_gigas","Pavona_duerdeni",0.8837
+"Alveopora_gigas","Pavona_frondifera",0.6408
+"Alveopora_gigas","Pavona_minuta",0.7012
+"Alveopora_gigas","Porites_cylindrica",0.8887
+"Pavona_duerdeni","Pavona_frondifera",0.0862
+"Pavona_duerdeni","Pavona_minuta",0.1104
+"Pavona_duerdeni","Porites_cylindrica",0.2969
+"Pavona_frondifera","Pavona_minuta",0.3459
+"Pavona_frondifera","Porites_cylindrica",0.6427
+"Pavona_minuta","Porites_cylindrica",0.5775

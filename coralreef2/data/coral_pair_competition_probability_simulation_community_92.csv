@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_horrida","Acropora_indonesia",0.0935
+"Acropora_horrida","Anacropora_spumosa",0.0758
+"Acropora_horrida","Echinophyllia_echinata",0.0574
+"Acropora_horrida","Montipora_incrassata",0.4595
+"Acropora_horrida","Porites_lobata",0.4197
+"Acropora_indonesia","Anacropora_spumosa",0.242
+"Acropora_indonesia","Echinophyllia_echinata",0.1917
+"Acropora_indonesia","Montipora_incrassata",0.768
+"Acropora_indonesia","Porites_lobata",0.738
+"Anacropora_spumosa","Echinophyllia_echinata",0.2298
+"Anacropora_spumosa","Montipora_incrassata",0.8064
+"Anacropora_spumosa","Porites_lobata",0.7799
+"Echinophyllia_echinata","Montipora_incrassata",0.8488
+"Echinophyllia_echinata","Porites_lobata",0.8268
+"Montipora_incrassata","Porites_lobata",0.2547

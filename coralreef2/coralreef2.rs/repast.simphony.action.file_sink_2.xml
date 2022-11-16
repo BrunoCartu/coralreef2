@@ -1,0 +1,35 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.5.0">
+  <name>percentage_cover_Sink</name>
+  <dataSet>Percentage_cover</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>Year</string>
+    <string>Sp1Cover</string>
+    <string>Sp2Cover</string>
+    <string>Sp3Cover</string>
+    <string>Sp4Cover</string>
+    <string>Sp5Cover</string>
+    <string>Sp6Cover</string>
+    <string>Sp7Cover</string>
+    <string>Sp8Cover</string>
+    <string>Sp9Cover</string>
+    <string>Sp10Cover</string>
+    <string>Sp11Cover</string>
+    <string>Sp12Cover</string>
+    <string>MacroalgaeCover</string>
+    <string>TurfCover</string>
+    <string>CCACover</string>
+    <string>AMACover</string>
+    <string>ACACover</string>
+    <string>HalimedaCover</string>
+    <string>CoverSand</string>
+    <string>Event</string>
+    <string>CommunityNumber</string>
+    <string>tick</string>
+    <string>run</string>
+    <string>random_seed</string>
+  </sourceIds>
+  <fileName>output/cover_parameterization/Percentage_cover.csv</fileName>
+  <addTimeStamp>false</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>

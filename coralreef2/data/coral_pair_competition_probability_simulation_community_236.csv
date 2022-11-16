@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_minuta","Acropora_polystoma",0.4282
+"Acropora_minuta","Montipora_incrassata",0.556
+"Acropora_minuta","Montipora_spumosa",0.5747
+"Acropora_minuta","Porites_attenuata",0.0927
+"Acropora_minuta","Porites_deformis",0.3285
+"Acropora_polystoma","Montipora_incrassata",0.4018
+"Acropora_polystoma","Montipora_spumosa",0.4203
+"Acropora_polystoma","Porites_attenuata",0.052
+"Acropora_polystoma","Porites_deformis",0.2079
+"Montipora_incrassata","Montipora_spumosa",0.3025
+"Montipora_incrassata","Porites_attenuata",0.0317
+"Montipora_incrassata","Porites_deformis",0.1357
+"Montipora_spumosa","Porites_attenuata",0.0295
+"Montipora_spumosa","Porites_deformis",0.127
+"Porites_attenuata","Porites_deformis",0.658

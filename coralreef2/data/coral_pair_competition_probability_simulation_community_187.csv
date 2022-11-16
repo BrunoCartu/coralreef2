@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Galaxea_cryptoramosa","Madracis_asanoi",0.1581
+"Galaxea_cryptoramosa","Madracis_mirabilis",0.3723
+"Galaxea_cryptoramosa","Mycetophyllia_ferox",0.1001
+"Galaxea_cryptoramosa","Porites_porites",0.256
+"Galaxea_cryptoramosa","Stylophora_danae",0.5583
+"Madracis_asanoi","Madracis_mirabilis",0.5593
+"Madracis_asanoi","Mycetophyllia_ferox",0.1922
+"Madracis_asanoi","Porites_porites",0.4241
+"Madracis_asanoi","Stylophora_danae",0.7301
+"Madracis_mirabilis","Mycetophyllia_ferox",0.0701
+"Madracis_mirabilis","Porites_porites",0.1891
+"Madracis_mirabilis","Stylophora_danae",0.4613
+"Mycetophyllia_ferox","Porites_porites",0.5543
+"Mycetophyllia_ferox","Stylophora_danae",0.8204
+"Porites_porites","Stylophora_danae",0.5962

@@ -1,0 +1,211 @@
+<repast.simphony.data2.engine.DataSetDescriptor simphonyVersion="2.5.0">
+  <name>Percentage_cover_aggregated</name>
+  <type>AGGREGATE</type>
+  <inclTick>true</inclTick>
+  <inclBatchRun>true</inclBatchRun>
+  <inclRandomSeed>true</inclRandomSeed>
+  <scheduleParams>
+    <start>1.0</start>
+    <interval>4.0</interval>
+    <priority>-Infinity</priority>
+    <pType>LAST</pType>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+    <hashCode>554882502</hashCode>
+  </scheduleParams>
+  <atEnd>true</atEnd>
+  <methodDataSources class="linked-hash-map">
+    <entry>
+      <string>year</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>year</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getYear</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp1</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp1</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp1Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp2</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp2</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp2Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp3</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp3</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp3Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp4</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp4</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp4Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp5</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp5</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp5Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp6</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp6</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp6Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp7</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp7</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp7Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp8</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp8</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp8Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp9</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp9</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp9Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp10</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp10</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp10Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp11</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp11</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp11Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sp12</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sp12</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getSp12Cover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover MA</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover MA</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getMacroalgaeCover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover Turf</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover Turf</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getTurfCover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover CCA</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover CCA</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getCCACover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover AMA</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover AMA</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getAMACover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover ACA</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover ACA</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getACACover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover Halimeda</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover Halimeda</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getHalimedaCover</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>cover sand</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>cover sand</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getCoverSand</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>community number</string>
+      <repast.simphony.data2.engine.MethodDataSourceDefinition>
+        <id>community number</id>
+        <className>OutputData.PercentageCover</className>
+        <methodName>getCommunityNumber</methodName>
+        <aggType>MAX</aggType>
+      </repast.simphony.data2.engine.MethodDataSourceDefinition>
+    </entry>
+  </methodDataSources>
+  <countSources class="linked-hash-map"/>
+  <customNADataSources class="linked-hash-map"/>
+  <customAggDataSources class="linked-hash-map"/>
+</repast.simphony.data2.engine.DataSetDescriptor>

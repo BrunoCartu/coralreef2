@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_granulosa","Agaricia_lamarcki",0.0102
+"Acropora_granulosa","Balanophyllia_europaea",0.001
+"Acropora_granulosa","Cantharellus_noumeae",7e-04
+"Acropora_granulosa","Favites_abdita",0.0194
+"Acropora_granulosa","Goniopora_columna",0.0972
+"Agaricia_lamarcki","Balanophyllia_europaea",0.0374
+"Agaricia_lamarcki","Cantharellus_noumeae",0.0251
+"Agaricia_lamarcki","Favites_abdita",0.4363
+"Agaricia_lamarcki","Goniopora_columna",0.8078
+"Balanophyllia_europaea","Cantharellus_noumeae",0.2106
+"Balanophyllia_europaea","Favites_abdita",0.8889
+"Balanophyllia_europaea","Goniopora_columna",0.9775
+"Cantharellus_noumeae","Favites_abdita",0.9234
+"Cantharellus_noumeae","Goniopora_columna",0.985
+"Favites_abdita","Goniopora_columna",0.6858

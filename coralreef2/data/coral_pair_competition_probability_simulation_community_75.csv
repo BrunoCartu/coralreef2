@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_grandis","Alveopora_catalai",0.0841
+"Acropora_grandis","Montipora_samarensis",0.6209
+"Acropora_grandis","Pavona_venosa",0.1038
+"Acropora_grandis","Pocillopora_damicornis",0.5256
+"Acropora_grandis","Turbinaria_mesenterina",0.3212
+"Alveopora_catalai","Montipora_samarensis",0.8776
+"Alveopora_catalai","Pavona_venosa",0.3365
+"Alveopora_catalai","Pocillopora_damicornis",0.8291
+"Alveopora_catalai","Turbinaria_mesenterina",0.6744
+"Montipora_samarensis","Pavona_venosa",0.0276
+"Montipora_samarensis","Pocillopora_damicornis",0.2137
+"Montipora_samarensis","Turbinaria_mesenterina",0.104
+"Pavona_venosa","Pocillopora_damicornis",0.7935
+"Pavona_venosa","Turbinaria_mesenterina",0.6214
+"Pocillopora_damicornis","Turbinaria_mesenterina",0.1464

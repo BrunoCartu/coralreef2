@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Anacropora_pillai","Lobophyllia_hemprichii",0.0106
+"Anacropora_pillai","Montipora_angulata",0.2893
+"Anacropora_pillai","Montipora_incrassata",0.496
+"Anacropora_pillai","Physophyllia_ayleni",0.0234
+"Anacropora_pillai","Porites_colonensis",0.1072
+"Lobophyllia_hemprichii","Montipora_angulata",0.9384
+"Lobophyllia_hemprichii","Montipora_incrassata",0.9736
+"Lobophyllia_hemprichii","Physophyllia_ayleni",0.4728
+"Lobophyllia_hemprichii","Porites_colonensis",0.8179
+"Montipora_angulata","Montipora_incrassata",0.4927
+"Montipora_angulata","Physophyllia_ayleni",0.0231
+"Montipora_angulata","Porites_colonensis",0.1059
+"Montipora_incrassata","Physophyllia_ayleni",0.0097
+"Montipora_incrassata","Porites_colonensis",0.0467
+"Physophyllia_ayleni","Porites_colonensis",0.668

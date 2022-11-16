@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_aspera","Acropora_grandis",0.1894
+"Acropora_aspera","Acropora_insignis",0.5696
+"Acropora_aspera","Acropora_muricata",0.3045
+"Acropora_aspera","Acropora_navini",0.0454
+"Acropora_aspera","Merulina_triangularis",0.0319
+"Acropora_grandis","Acropora_insignis",0.6948
+"Acropora_grandis","Acropora_muricata",0.4295
+"Acropora_grandis","Acropora_navini",0.0756
+"Acropora_grandis","Merulina_triangularis",0.0537
+"Acropora_insignis","Acropora_muricata",0.1173
+"Acropora_insignis","Acropora_navini",0.0142
+"Acropora_insignis","Merulina_triangularis",0.0099
+"Acropora_muricata","Acropora_navini",0.0418
+"Acropora_muricata","Merulina_triangularis",0.0294
+"Acropora_navini","Merulina_triangularis",0.2178

@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_derawanensis","Acropora_palmerae",0.651
+"Acropora_derawanensis","Acropora_retusa",0.6332
+"Acropora_derawanensis","Echinophyllia_aspera",0.0757
+"Acropora_derawanensis","Montipora_stellata",0.4228
+"Acropora_derawanensis","Montipora_verrilli",0.5358
+"Acropora_palmerae","Acropora_retusa",0.271
+"Acropora_palmerae","Echinophyllia_aspera",0.0173
+"Acropora_palmerae","Montipora_stellata",0.1363
+"Acropora_palmerae","Montipora_verrilli",0.1991
+"Acropora_retusa","Echinophyllia_aspera",0.0187
+"Acropora_retusa","Montipora_stellata",0.1457
+"Acropora_retusa","Montipora_verrilli",0.2118
+"Echinophyllia_aspera","Montipora_stellata",0.7823
+"Echinophyllia_aspera","Montipora_verrilli",0.8499
+"Montipora_stellata","Montipora_verrilli",0.3877

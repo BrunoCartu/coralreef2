@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_dendrum","Acropora_verweyi",0.1988
+"Acropora_dendrum","Caulastraea_echinulata",0.0113
+"Acropora_dendrum","Goniopora_eclipsensis",0.0707
+"Acropora_dendrum","Platygyra_yaeyamaensis",0.0409
+"Acropora_dendrum","Podabacia_lankaensis",0.006
+"Acropora_verweyi","Caulastraea_echinulata",0.0182
+"Acropora_verweyi","Goniopora_eclipsensis",0.1097
+"Acropora_verweyi","Platygyra_yaeyamaensis",0.0647
+"Acropora_verweyi","Podabacia_lankaensis",0.0097
+"Caulastraea_echinulata","Goniopora_eclipsensis",0.7279
+"Caulastraea_echinulata","Platygyra_yaeyamaensis",0.6002
+"Caulastraea_echinulata","Podabacia_lankaensis",0.1761
+"Goniopora_eclipsensis","Platygyra_yaeyamaensis",0.184
+"Goniopora_eclipsensis","Podabacia_lankaensis",0.0311
+"Platygyra_yaeyamaensis","Podabacia_lankaensis",0.0541

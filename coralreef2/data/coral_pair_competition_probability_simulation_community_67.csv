@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_pulchra","Goniastrea_ramosa",0.0265
+"Acropora_pulchra","Isopora_crateriformis",0.258
+"Acropora_pulchra","Montipora_hirsuta",0.167
+"Acropora_pulchra","Montipora_meandrina",0.1802
+"Acropora_pulchra","Pocillopora_capitata",0.5203
+"Goniastrea_ramosa","Isopora_crateriformis",0.837
+"Goniastrea_ramosa","Montipora_hirsuta",0.7476
+"Goniastrea_ramosa","Montipora_meandrina",0.7646
+"Goniastrea_ramosa","Pocillopora_capitata",0.9413
+"Isopora_crateriformis","Montipora_hirsuta",0.1881
+"Isopora_crateriformis","Montipora_meandrina",0.2026
+"Isopora_crateriformis","Pocillopora_capitata",0.5562
+"Montipora_hirsuta","Montipora_meandrina",0.3058
+"Montipora_hirsuta","Pocillopora_capitata",0.6849
+"Montipora_meandrina","Pocillopora_capitata",0.6647

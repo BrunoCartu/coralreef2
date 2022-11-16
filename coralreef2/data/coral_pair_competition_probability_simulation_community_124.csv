@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Agaricia_fragilis","Agaricia_humilis",0.111
+"Agaricia_fragilis","Astrea_curta",0.2736
+"Agaricia_fragilis","Cantharellus_doederleini",0.0158
+"Agaricia_fragilis","Fungia_fungites",0.005
+"Agaricia_fragilis","Hydnophora_bonsai",0.1219
+"Agaricia_humilis","Astrea_curta",0.5479
+"Agaricia_humilis","Cantharellus_doederleini",0.0492
+"Agaricia_humilis","Fungia_fungites",0.0159
+"Agaricia_humilis","Hydnophora_bonsai",0.3087
+"Astrea_curta","Cantharellus_doederleini",0.0169
+"Astrea_curta","Fungia_fungites",0.0053
+"Astrea_curta","Hydnophora_bonsai",0.1289
+"Cantharellus_doederleini","Fungia_fungites",0.1118
+"Cantharellus_doederleini","Hydnophora_bonsai",0.7762
+"Fungia_fungites","Hydnophora_bonsai",0.9172

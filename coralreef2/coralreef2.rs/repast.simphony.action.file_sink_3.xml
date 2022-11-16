@@ -1,0 +1,56 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.5.0">
+  <name>percentage_cover_aggre_sink</name>
+  <dataSet>Percentage_cover_aggregated</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>Year</string>
+    <string>Sp1Cover</string>
+    <string>Sp2Cover</string>
+    <string>Sp3Cover</string>
+    <string>Sp4Cover</string>
+    <string>Sp5Cover</string>
+    <string>Sp6Cover</string>
+    <string>Sp7Cover</string>
+    <string>Sp8Cover</string>
+    <string>Sp9Cover</string>
+    <string>Sp10Cover</string>
+    <string>Sp11Cover</string>
+    <string>Sp12Cover</string>
+    <string>MacroalgaeCover</string>
+    <string>TurfCover</string>
+    <string>CCACover</string>
+    <string>AMACover</string>
+    <string>ACACover</string>
+    <string>HalimedaCover</string>
+    <string>CoverSand</string>
+    <string>Event</string>
+    <string>CommunityNumber</string>
+    <string>tick</string>
+    <string>run</string>
+    <string>random_seed</string>
+    <string>year</string>
+    <string>cover sp1</string>
+    <string>cover sp2</string>
+    <string>cover sp3</string>
+    <string>cover sp4</string>
+    <string>cover sp5</string>
+    <string>cover sp6</string>
+    <string>cover sp7</string>
+    <string>cover sp8</string>
+    <string>cover sp9</string>
+    <string>cover sp10</string>
+    <string>cover sp11</string>
+    <string>cover sp12</string>
+    <string>cover MA</string>
+    <string>cover Turf</string>
+    <string>cover CCA</string>
+    <string>cover AMA</string>
+    <string>cover ACA</string>
+    <string>cover Halimeda</string>
+    <string>cover sand</string>
+    <string>community number</string>
+  </sourceIds>
+  <fileName>output/cover_parameterization/Percentage_cover_aggre.csv</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>

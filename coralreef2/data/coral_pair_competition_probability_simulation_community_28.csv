@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Cycloseris_hexagonalis","Danafungia_horrida",0.0302
+"Cycloseris_hexagonalis","Leptoseris_incrustans",0.9238
+"Cycloseris_hexagonalis","Palauastrea_ramosa",0.9333
+"Cycloseris_hexagonalis","Porites_cylindrica",0.9711
+"Cycloseris_hexagonalis","Porites_murrayensis",0.9843
+"Danafungia_horrida","Leptoseris_incrustans",0.9937
+"Danafungia_horrida","Palauastrea_ramosa",0.9945
+"Danafungia_horrida","Porites_cylindrica",0.9977
+"Danafungia_horrida","Porites_murrayensis",0.9988
+"Leptoseris_incrustans","Palauastrea_ramosa",0.3169
+"Leptoseris_incrustans","Porites_cylindrica",0.527
+"Leptoseris_incrustans","Porites_murrayensis",0.6757
+"Palauastrea_ramosa","Porites_cylindrica",0.4911
+"Palauastrea_ramosa","Porites_murrayensis",0.6435
+"Porites_cylindrica","Porites_murrayensis",0.4291

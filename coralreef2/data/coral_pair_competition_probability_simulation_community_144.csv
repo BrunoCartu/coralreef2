@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acanthastrea_hemprichi","Acanthastrea_subechinata",0.179
+"Acanthastrea_hemprichi","Goniastrea_stelligera",0.6343
+"Acanthastrea_hemprichi","Goniastrea_thecata",0.1538
+"Acanthastrea_hemprichi","Paragoniastrea_deformis",0.2705
+"Acanthastrea_hemprichi","Platygyra_acuta",0.6581
+"Acanthastrea_subechinata","Goniastrea_stelligera",0.7616
+"Acanthastrea_subechinata","Goniastrea_thecata",0.2509
+"Acanthastrea_subechinata","Paragoniastrea_deformis",0.406
+"Acanthastrea_subechinata","Platygyra_acuta",0.7801
+"Goniastrea_stelligera","Goniastrea_thecata",0.0404
+"Goniastrea_stelligera","Paragoniastrea_deformis",0.0791
+"Goniastrea_stelligera","Platygyra_acuta",0.3085
+"Goniastrea_thecata","Paragoniastrea_deformis",0.4506
+"Goniastrea_thecata","Platygyra_acuta",0.8098
+"Paragoniastrea_deformis","Platygyra_acuta",0.6759

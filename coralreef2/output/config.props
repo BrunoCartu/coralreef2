@@ -1,0 +1,9 @@
+model.archive = /Users/carturan/Documents/My_Research/Modeling/coralreef2/output/complete_model.jar
+batch.params.file = scenario.rs/batch_params.xml
+ssh.key_dir = /Users/carturan/.ssh
+poll.frequency = 60.0
+model.output = /Users/carturan/Documents/My_Research/Modeling/coralreef2/output
+
+vm.arguments = -Xmx512M
+local.0.instances = 3
+local.0.working_directory = /var/folders/d0/pqjgs72138sfk3z3mm6x2txh0000gt/T/

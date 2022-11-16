@@ -1,0 +1,16 @@
+"species1","species2","prob.species1.wins"
+"Acropora_selago","Goniastrea_favulus",0.0279
+"Acropora_selago","Goniopora_ciliatus",0.0156
+"Acropora_selago","Montipora_stellata",0.1152
+"Acropora_selago","Pavona_duerdeni",0.1885
+"Acropora_selago","Pseudodiploria_strigosa",0.0024
+"Goniastrea_favulus","Goniopora_ciliatus",0.181
+"Goniastrea_favulus","Montipora_stellata",0.6454
+"Goniastrea_favulus","Pavona_duerdeni",0.7644
+"Goniastrea_favulus","Pseudodiploria_strigosa",0.0331
+"Goniopora_ciliatus","Montipora_stellata",0.768
+"Goniopora_ciliatus","Pavona_duerdeni",0.8551
+"Goniopora_ciliatus","Pseudodiploria_strigosa",0.0585
+"Montipora_stellata","Pavona_duerdeni",0.4174
+"Montipora_stellata","Pseudodiploria_strigosa",0.0075
+"Pavona_duerdeni","Pseudodiploria_strigosa",0.0042

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+					<parameter name="reef_height" displayName="reef_height" type="int" 
+						defaultValue="200" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+				<parameter name="height_Turf" displayName="height_Turf" type="double" 
+						defaultValue="10.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="proba_settle_CCA" displayName="proba_settle_CCA" type="double" 
+						defaultValue="0.5" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="GR_reduction_interaction" displayName="GR_reduction_interaction" type="double" 
+						defaultValue="4.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="height_CCA_EncrustingCoral" displayName="height_CCA_EncrustingCoral" type="double" 
+						defaultValue="2.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="proba_grazing_AMA" displayName="proba_grazing_AMA" type="double" 
+						defaultValue="0.4" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="proba_settle_Dead_coral" displayName="proba_settle_Dead_coral" type="double" 
+						defaultValue="0.5" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="Grazing.model" displayName="Grazing.model" type="int" 
+						defaultValue="3" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									values="1 2 3 4 "
+						
+		/>
+				<parameter name="proba_grazing_ACA" displayName="proba_grazing_ACA" type="double" 
+						defaultValue="0.7" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="yearDivision" displayName="Year division" type="int" 
+						defaultValue="2" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									values="1 2 3 4 "
+						
+		/>
+				<parameter name="proba_grazing_CCA" displayName="proba_grazing_CCA" type="double" 
+						defaultValue="0.05" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="proba_grazing_Halimeda" displayName="proba_grazing_Halimeda" type="double" 
+						defaultValue="0.4" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="ratioAreaBranchingPlating_OvertopColonies" displayName="ratio area branchingCol overTop" type="double" 
+						defaultValue="2.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="proba_grazing_MA" displayName="proba_grazing_MA" type="double" 
+						defaultValue="0.7" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="Bleaching_diff_response" displayName="Bleaching_diff_response" type="double" 
+						defaultValue="3.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="height_BigAlgae" displayName="height_BigAlgae" type="double" 
+						defaultValue="30.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="disturbance_scenario_number" displayName="Disturbance scenario" type="int" 
+						defaultValue="1" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+				<parameter name="randomSeed" displayName="Default Random Seed" type="int" 
+						defaultValue="__NULL__"
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+				<parameter name="System.out.print_data" displayName="outprint data?" type="java.lang.String" 
+						defaultValue="false" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter"
+									values="true false "
+						
+		/>
+				<parameter name="proba_settle_Barren_ground" displayName="proba_settle_Barren_ground" type="double" 
+						defaultValue="0.5" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="Cyclone_DMT.model" displayName="Cyclone_DMT.models" type="int" 
+						defaultValue="1" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									values="1 2 3 "
+						
+		/>
+				<parameter name="otherProportions" displayName="other Proportions Larvae" type="double" 
+						defaultValue="1.0E-4" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="Connectivity" displayName="Connectivity" type="java.lang.String" 
+						defaultValue="isolated(200km)" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter"
+									values="high(5km) medium(10km) low(20km) isolated(100km) isolated(200km) noConnectivity connectivityCSV"
+						
+		/>
+				<parameter name="proba_Algae_coverCCA" displayName="proba Algae coverCCA" type="double" 
+						defaultValue="0.1" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+									
+		/>
+				<parameter name="Rugosity_Grazing" displayName="Rugosity_Grazing" type="boolean" 
+						defaultValue="false" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$BooleanConverter"
+									
+		/>
+				<parameter name="reef_width" displayName="reef_width" type="int" 
+						defaultValue="200" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+				<parameter name="communityNumber" displayName="Community Number" type="int" 
+						defaultValue="1" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+									
+		/>
+		</parameters>
+
+
